@@ -1,6 +1,6 @@
 {
-  "name": "js-app-boilerplate",
-  "version": "1.5.1",
+  "name": "node-arcface-utils",
+  "version": "1.0.0",
   "description": "",
   "scripts": {
     "start": "./node_modules/.bin/nodemon ./node_modules/.bin/jest",
