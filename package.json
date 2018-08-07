@@ -10,6 +10,7 @@
     "flow": "flow",
     "format": "prettier --single-quote --trailing-comma all '{src,__{tests,mocks}__}/**/*.{js,jsx}' --write",
     "precommit": "lint-staged",
+    "prepare": "yarn build",
     "clean": "rimraf lib"
   },
   "author": "bob61016@gmail.com",
